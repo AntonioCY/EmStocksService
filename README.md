@@ -38,3 +38,8 @@ As per the implementaion of the subscribe and unsubscribe methods for the dara s
 as a subscriber to the RabbitMQ Queue depending on the integration implementation.
 
 PS: The service is not intended to be used in the production environment, it is just a test solution.
+
+## Unit Tests results
+
+![unit-tests-result](https://github.com/user-attachments/assets/50ca3751-6bf4-4dad-9a62-6f2901db227b)
+
